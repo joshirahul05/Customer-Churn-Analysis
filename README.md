@@ -1,6 +1,6 @@
-Project Overview
+Project Overview:
 This project analyzes customer data to identify factors that lead to customer churn.
-📂 Dataset Features
+📂 Dataset Features:
 CustomerId
 Gender
 Age
@@ -14,7 +14,7 @@ Churn distribution analysis
 Gender vs Churn
 Subscription Type vs Churn
 Support Calls impact
-✅ Conclusion
+✅ Conclusion:
 Customers with more support calls are likely to churn
 Basic users churn more than premium users
 Customer engagement affects retention
